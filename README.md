@@ -5,6 +5,7 @@
 
 LCTT 已经拥有几百名活跃成员，并欢迎更多的 Linux 志愿者加入我们的团队。
 
+![微信图片_20211021160525](https://user-images.githubusercontent.com/92914311/138236863-53abec0a-e4ac-45a4-bceb-fc04b05e1124.jpg)
 
 - LCTT 官网： [)
 - LCTT 状态： [)
